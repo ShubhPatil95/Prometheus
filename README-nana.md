@@ -52,11 +52,15 @@ Metrics entries: TYPE and HELP attributes
 
 <img src="https://github.com/ShubhPatil95/Prometheus/blob/main/images/config.png" alt="Default config file">
 
-
-
-### Step 1: Create a new conda environment
-```bash
-conda create -n dvc_env python=3.8
-```
+<h3>Prometheus Charecteristics</h3>
+<ol>
+  <li> Reliable</li>
+  <li> stand-alone and self containing</li>
+  <li> no extensive set up needed</li>
+  <li> less complex</li>
+  <li> works well even if other part of infrastructure is broken</li>
+  <li> difficult to scale</li>
+  <li> limit on number of metrics you monitor. Workaround: increase prometheus server capacity, limit number of metrics</li>
+</ol> 
 
 </p>
