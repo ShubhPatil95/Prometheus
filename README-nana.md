@@ -48,6 +48,11 @@ Metrics entries: TYPE and HELP attributes
 <h3>Prometheus configuration</h3>
 <p>prometheus.yml file contains 1) which target? and 2) at what interval metrics need to be pulled</p>
 
+<p> Global section contains varibles at what interval metrics to be pulled, rule_files section is contains Rule for aggregating metric values or creating alerts when condition met,scrape_configs section contain what resources need to be monitored</p>
+
+<img src="https://github.com/ShubhPatil95/Prometheus/blob/main/images/config.png" alt="Default config file">
+
+
 
 ### Step 1: Create a new conda environment
 ```bash
