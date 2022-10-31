@@ -45,6 +45,8 @@ Metrics entries: TYPE and HELP attributes
   <li> better detection/insight if service is up and running</li>
 </ol> 
 
+<h3>Prometheus configuration</h3>
+<p>prometheus.yml file contains 1) which target? and 2) at what interval metrics need to be pulled</p>
 
 
 ### Step 1: Create a new conda environment
