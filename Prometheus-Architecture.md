@@ -1,4 +1,4 @@
-<h2> Prometheus </h2> 
+<h2> Prometheus Architecture </h2> 
 <p>Prometheus was built to monitor highly dynamic container environments e.g. Kubernetes, and docker swarm. However, it can also monitor applications deployed on bare servers.</p>
 
 <p> Modern DevOps is more complex, where 100 of the processes might be running on multiple containerized applications on different servers, all of which could be interconnected. Maintaining such infrastructure is extremely difficult and complex, this is where Prometheus help us to monitor all these things effectively. </p>
