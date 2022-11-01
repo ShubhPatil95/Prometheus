@@ -64,3 +64,4 @@ Metrics entries: TYPE and HELP attributes
 </ol> 
 
 </p>
+<img src="https://github.com/ShubhPatil95/Prometheus/blob/main/images/Archietecture-1.png">
