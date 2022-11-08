@@ -10,6 +10,6 @@ sudo usermod -aG docker $USER && newgrp docker
 <img src="https://github.com/ShubhPatil95/Prometheus/blob/main/images/InstalltionError.png">
 </p>
 
-<h3>Step 1: Install Prometheus and grafana using below link </h3>
+<h3>Step 2: Install Prometheus and grafana using below link </h3>
 <p> <a href="https://brain2life.hashnode.dev/prometheus-and-grafana-setup-in-minikube"> Proemtheus and Grafana Installtion Steps</a><br>
 </p>
